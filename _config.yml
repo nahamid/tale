@@ -19,7 +19,7 @@ markdown:       kramdown
 author:
   name:         Chester How
   url:          http://chester.how
-  email:        chesterhow@gmail.com
+  email:        chesterow@gmail.com
 
 # Custom vars
 version:        3.4.1
